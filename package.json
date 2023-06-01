@@ -37,6 +37,7 @@
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.1",
     "mini-css-extract-plugin": "^2.7.6",
+    "stylus": "^0.59.0",
     "stylus-loader": "^7.1.2",
     "terser-webpack-plugin": "^5.3.9",
     "url-loader": "^4.1.1",
